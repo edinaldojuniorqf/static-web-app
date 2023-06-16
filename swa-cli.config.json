@@ -3,7 +3,11 @@
   "configurations": {
     "static-app-manual": {
       "appLocation": ".",
-      "outputLocation": "."
+      "apiLocation": "api",
+      "outputLocation": ".",
+      "apiLanguage": "node",
+      "apiVersion": "16",
+      "apiBuildCommand": "npm run build --if-present"
     }
   }
 }

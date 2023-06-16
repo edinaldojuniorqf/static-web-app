@@ -1,0 +1,12 @@
+{
+  "name": "static-app-manual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "swa start --api-location api"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
